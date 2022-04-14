@@ -448,6 +448,7 @@ GEM
     unf_ext (0.0.8.2.beta)
     unf_ext (0.0.8.2.beta-x64-mingw32)
     unf_ext (0.0.8.2.beta-x86-mingw32)
+    unf_ext (0.0.8.2.beta-x64-mingw-ucrt)
     unicode-display_width (2.1.0)
     unicode_utils (1.4.0)
     uuidtools (2.2.0)
@@ -503,6 +504,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw-ucrt
   x64-mingw32
   x64-unknown
   x86-mingw32
